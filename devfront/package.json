@@ -1,0 +1,21 @@
+{
+  "name": "webaulagit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniciusfds7/WebAulaGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Viniciusfds7/WebAulaGit/issues"
+  },
+  "homepage": "https://github.com/Viniciusfds7/WebAulaGit#readme"
+}
