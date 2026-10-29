@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Viniciusfds7/WebAulaGit/issues"
   },
-  "homepage": "https://github.com/Viniciusfds7/WebAulaGit#readme"
+  "homepage": "https://github.com/Viniciusfds7/WebAulaGit#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
